@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TOSL-admin.iml" filepath="$PROJECT_DIR$/TOSL-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eladmin-common/tosladmin-common.iml" filepath="$PROJECT_DIR$/eladmin-common/tosladmin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eladmin-generator/tosladmin-generator.iml" filepath="$PROJECT_DIR$/eladmin-generator/tosladmin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eladmin-logging/tosladmin-logging.iml" filepath="$PROJECT_DIR$/eladmin-logging/tosladmin-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eladmin-system/tosladmin-system.iml" filepath="$PROJECT_DIR$/eladmin-system/tosladmin-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eladmin-tools/tosladmin-tools.iml" filepath="$PROJECT_DIR$/eladmin-tools/tosladmin-tools.iml" />
+    </modules>
+  </component>
+</project>

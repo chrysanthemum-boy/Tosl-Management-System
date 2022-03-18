@@ -1,0 +1,13 @@
+me\fann\repository\ColumnInfoRepository.class
+me\fann\utils\ColUtil.class
+me\fann\domain\ColumnInfo.class
+me\fann\service\impl\GenConfigServiceImpl.class
+me\fann\service\impl\GeneratorServiceImpl.class
+me\fann\domain\vo\TableInfo.class
+me\fann\rest\GenConfigController.class
+me\fann\domain\GenConfig.class
+me\fann\rest\GeneratorController.class
+me\fann\utils\GenUtil.class
+me\fann\service\GeneratorService.class
+me\fann\service\GenConfigService.class
+me\fann\repository\GenConfigRepository.class

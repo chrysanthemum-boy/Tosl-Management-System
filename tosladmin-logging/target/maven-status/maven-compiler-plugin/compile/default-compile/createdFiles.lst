@@ -1,0 +1,14 @@
+me\fann\service\mapstruct\LogErrorMapper.class
+me\fann\domain\Log.class
+me\fann\service\mapstruct\LogSmallMapperImpl.class
+me\fann\service\dto\LogQueryCriteria.class
+me\fann\service\impl\LogServiceImpl.class
+me\fann\service\mapstruct\LogSmallMapper.class
+me\fann\aspect\LogAspect.class
+me\fann\service\LogService.class
+me\fann\annotation\Log.class
+me\fann\service\mapstruct\LogErrorMapperImpl.class
+me\fann\service\dto\LogErrorDTO.class
+me\fann\rest\LogController.class
+me\fann\service\dto\LogSmallDTO.class
+me\fann\repository\LogRepository.class
